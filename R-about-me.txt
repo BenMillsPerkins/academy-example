@@ -1,7 +1,0 @@
-Add your name and a fun fact about yourself between the lines:
-
-------------------------------------------------
-
-Ruby loves cats but would get asthma triggered by cats.
-
-------------------------------------------------
