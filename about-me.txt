@@ -1,5 +1,5 @@
 Add your name and a fun fact about yourself between the lines:
 
 ------------------------------------------------
-my name is Samson and i dont get branches
+my name is Samson. i dont get branches 
 ------------------------------------------------
